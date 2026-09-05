@@ -13,7 +13,8 @@
     "icCardSupported": true,
     "priceNote": "S¥400・M¥500・L¥700・XL¥800",
     "usageNote": "現金(1000円札まで)とICカードの両方に対応。鍵を使わないタイプのロッカーです。両替機はありませんが、駅構内の券売機でICカードのチャージができます。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "tokyo_marunouchi_01",
@@ -28,7 +29,8 @@
     "icCardSupported": true,
     "priceNote": "¥300〜",
     "usageNote": "現金・ICカードどちらも利用可能。改札外にあり、比較的空きが見つかりやすいという口コミが多いです。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "tokyo_nihombashi_01",
@@ -43,7 +45,8 @@
     "icCardSupported": true,
     "priceNote": "S¥400・M/L¥600・L¥800",
     "usageNote": "コアラのイラストが目印。現金(1000円札まで)・ICカードどちらも利用可能です。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "shinjuku_01",
@@ -58,7 +61,8 @@
     "icCardSupported": true,
     "priceNote": "¥400〜",
     "usageNote": "一部のロッカーはICカード専用機となっており、現金が使えない場合があります。空きがなければ南口・新南口側もご確認ください。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "shinjuku_02",
@@ -73,7 +77,8 @@
     "icCardSupported": true,
     "priceNote": "¥400〜",
     "usageNote": "24時間利用可能。バスタ新宿(高速バスターミナル)に近く、大型荷物を持つ旅行者の利用が多いため満室になりやすい時間帯があります。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "shibuya_01",
@@ -88,7 +93,8 @@
     "icCardSupported": true,
     "priceNote": "¥400〜",
     "usageNote": "スクランブル交差点近くで混雑しやすいエリアです。ICカード対応の据置型ロッカーです。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "ueno_01",
@@ -103,7 +109,8 @@
     "icCardSupported": true,
     "priceNote": "¥400〜",
     "usageNote": "利用時間は朝6時〜夜23時。上野公園・博物館めぐりの荷物預けに便利な立地です。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "shinagawa_01",
@@ -118,7 +125,8 @@
     "icCardSupported": true,
     "priceNote": "¥400〜",
     "usageNote": "24時間利用可能。鍵を使わないタイプで、預け入れ後にパネルで支払うとバーコード付きレシートが発行されます(スマホで写真を撮っておくと安心です)。改札から少し離れているため空きが見つかりやすい傾向があります。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "ikebukuro_01",
@@ -132,7 +140,8 @@
     "icCardSupported": true,
     "priceNote": "¥300〜",
     "usageNote": "利用時間は朝6時〜夜23時。駅構内が複雑なため、案内表示の「コインロッカー」マークを目印に進んでください。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "akihabara_01",
@@ -148,7 +157,8 @@
     "icCardSupported": false,
     "priceNote": "S¥300・M¥400・L¥600・XL¥700",
     "usageNote": "現金のみ対応(100円硬貨用の鍵式)。両替機ありますが数に限りがあります。利用時間は朝5時30分〜深夜0時で24時間ではないため注意してください。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "haneda_airport_01",
@@ -163,7 +173,8 @@
     "icCardSupported": true,
     "priceNote": "¥500〜",
     "usageNote": "24時間利用可能。早朝でも空きがあったという口コミがあります。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "narita_airport_01",
@@ -178,7 +189,8 @@
     "icCardSupported": true,
     "priceNote": "¥500〜",
     "usageNote": "24時間利用可能。繁忙期は満室になりやすいため、空きがない場合は近くの手荷物預かりカウンターの利用も検討してください。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "kyoto_01",
@@ -193,7 +205,8 @@
     "icCardSupported": true,
     "priceNote": "¥400〜",
     "usageNote": "満室になりやすい人気スポットです。空きがない場合、Porta地下街側や八条口ロータリー側にも別のロッカーがあります。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "osaka_umeda_01",
@@ -208,7 +221,8 @@
     "icCardSupported": true,
     "priceNote": "¥400〜",
     "usageNote": "ICOCA等の交通系ICカードを直接ひも付けて利用できるタイプがあり便利です。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "osaka_namba_01",
@@ -223,7 +237,8 @@
     "icCardSupported": true,
     "priceNote": "¥500・¥700・¥1000",
     "usageNote": "屋内設置のロッカーは空調が効いており、チョコレートなど溶けやすい物の保管にもおすすめとの口コミがあります。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "shin_osaka_01",
@@ -238,7 +253,8 @@
     "icCardSupported": true,
     "priceNote": "¥400〜",
     "usageNote": "3階のロッカーは交通系ICカード専用(現金不可)のものが多いため、現金で利用したい場合はユニクロ近くの2階のロッカーがおすすめです。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "kansai_airport_01",
@@ -253,7 +269,8 @@
     "icCardSupported": true,
     "priceNote": "¥400〜",
     "usageNote": "ICカード・クレジットカードに対応しており、鉄道駅側のロッカーより利用しやすいとの口コミがあります。JR関西空港駅からの連絡橋を渡ってすぐの場所です。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "nagoya_01",
@@ -268,7 +285,8 @@
     "icCardSupported": true,
     "priceNote": "¥400〜",
     "usageNote": "駅構内が非常に広いため、満室の場合は太閤通口・桜通口それぞれの周辺で探してみてください。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "hakata_01",
@@ -283,7 +301,8 @@
     "icCardSupported": true,
     "priceNote": "¥400〜",
     "usageNote": "利用時間は朝5時〜深夜0時。SUGOCA等のICカードに対応。新幹線改札に近く、混雑時は2階ひかり広場側のロッカーも空いていることがあります。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "sapporo_01",
@@ -298,7 +317,8 @@
     "icCardSupported": true,
     "priceNote": "¥400〜(スキー・スノーボード用大型ロッカーは¥1200)",
     "usageNote": "利用時間は朝5時15分〜深夜0時。現金・ICカード両方に対応。スキー板等が入る縦長の大型ロッカーは数が少ないため、事前予約(マルチキューブ)がおすすめです。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "shin_chitose_airport_01",
@@ -313,7 +333,8 @@
     "icCardSupported": true,
     "priceNote": "¥500〜",
     "usageNote": "24時間利用可能。空港内は広いため、案内表示に従って最寄りのロッカーを探してください。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "sendai_01",
@@ -328,7 +349,8 @@
     "icCardSupported": true,
     "priceNote": "¥400〜(前払い制)",
     "usageNote": "利用時間は朝5時30分〜深夜0時。多くの機種がSuica対応ですが、一部現金専用の機種もあります。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "yokohama_01",
@@ -343,7 +365,8 @@
     "icCardSupported": true,
     "priceNote": "¥300〜",
     "usageNote": "IC カード・QRコード決済・現金と複数の支払い方法に対応した新しいロッカーが増設されています。旧型の硬貨専用ロッカーは安価(¥300〜)です。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "nikko_01",
@@ -358,7 +381,8 @@
     "icCardSupported": true,
     "priceNote": "¥600〜(ICカード)/¥800〜(現金)",
     "usageNote": "利用時間は朝5時〜夜23時30分。改札内(ホーム側)にあります。JR日光駅側のロッカーの方が割安(¥400〜)なので、JRを利用する場合はそちらもご検討ください。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "kobe_sannomiya_01",
@@ -373,7 +397,8 @@
     "icCardSupported": true,
     "priceNote": "S¥400・M¥500・L¥700",
     "usageNote": "現金・ICカードの両方に対応し、両替機もあります。利用期間は最大3日間(開始日を含む)です。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "nara_01",
@@ -388,7 +413,8 @@
     "icCardSupported": true,
     "priceNote": "¥400〜",
     "usageNote": "駅構内に設置されています。奈良公園観光の拠点として便利な立地です(料金の詳細は現地表示でご確認ください)。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "himeji_01",
@@ -402,7 +428,8 @@
     "icCardSupported": false,
     "priceNote": "S¥200・L¥400",
     "usageNote": "利用時間は朝6時30分〜夜22時30分。柳珈琲店の隣にあり、姫路駅前で最も割安なロッカーとの口コミがあります。姫路城側の2階ロッカーは満室になりやすいため、こちらもおすすめです。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "hiroshima_01",
@@ -417,7 +444,8 @@
     "icCardSupported": true,
     "priceNote": "¥400〜",
     "usageNote": "新幹線改札付近に複数設置されています。ICカード対応の最新型が多く、支払いにやや時間がかかることがあるため新幹線出発時刻に余裕を持って利用してください。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "okayama_01",
@@ -433,7 +461,8 @@
     "icCardSupported": true,
     "priceNote": "L¥800・XL¥1000",
     "usageNote": "利用時間は朝6時〜深夜0時。改札を出てすぐの場所は満室になりやすいですが、南館奥まで進むと空きが見つかりやすい傾向があります。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "takamatsu_01",
@@ -448,7 +477,8 @@
     "icCardSupported": true,
     "priceNote": "¥400〜",
     "usageNote": "駅2階に設置。高速バスターミナル側のロッカーは駅構内より少し割安な場合があります。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "nagasaki_01",
@@ -463,7 +493,8 @@
     "icCardSupported": true,
     "priceNote": "¥400〜",
     "usageNote": "リニューアルされた駅舎内に設置されています(料金・空き状況の詳細は現地表示でご確認ください)。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "kumamoto_01",
@@ -478,7 +509,8 @@
     "icCardSupported": true,
     "priceNote": "¥400〜¥700",
     "usageNote": "24時間利用可能。Suica・PASMO・ICOCA・SUGOCA等の交通系ICカードに対応した鍵不要タイプです。東口(白川口)側にも別のロッカーがあります。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "beppu_01",
@@ -493,7 +525,8 @@
     "icCardSupported": true,
     "priceNote": "¥400〜",
     "usageNote": "改札を出てすぐの商業施設「えきマチ1丁目べっぷ」周辺に設置されています。温泉めぐりの荷物預けに便利です。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "naha_airport_01",
@@ -508,7 +541,8 @@
     "icCardSupported": false,
     "priceNote": "¥300〜(Mサイズ目安¥600)",
     "usageNote": "100円硬貨を使う現金専用タイプです。各階に設置されており、2階は北口(国内線)入口付近に多くあります。利用開始は朝9時からです。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "kanazawa_01",
@@ -523,7 +557,8 @@
     "icCardSupported": true,
     "priceNote": "¥400〜(1日あたり)",
     "usageNote": "24時間利用可能。ICカード・100円硬貨どちらも利用可能で、両替機(1000円札対応)もあります。観光シーズンは満室になりやすく、西口側(ロッカーB・C)も確認してください。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "nagano_01",
@@ -538,7 +573,8 @@
     "icCardSupported": true,
     "priceNote": "¥400〜",
     "usageNote": "新幹線改札付近、1階・2階に設置。長野県内77市町村のご当地マスコットが扉に描かれているのが特徴です。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "tokyo_bigsight_01",
@@ -553,7 +589,8 @@
     "icCardSupported": true,
     "priceNote": "¥400〜",
     "usageNote": "24時間利用可能。大型イベント開催日は非常に混雑し満室になりやすいため、りんかい線国際展示場駅やゆりかもめ有明駅周辺のロッカーも合わせて探すのがおすすめです。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "makuhari_messe_01",
@@ -567,7 +604,8 @@
     "icCardSupported": true,
     "priceNote": "¥400〜¥700",
     "usageNote": "24時間利用可能。現金・ICカード両対応のロッカーと、ICカード専用ロッカーが混在しています。利用期限は3日間で、超過分は別途精算が必要です。幕張メッセでのイベント開催日は満室になりやすいです。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "tokyo_dome_01",
@@ -582,7 +620,8 @@
     "icCardSupported": true,
     "priceNote": "¥400〜",
     "usageNote": "24時間利用可能。館内の複数箇所に設置されており、東京ドームでのイベント・試合開催日は特に混雑します。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "aomori_01",
@@ -596,7 +635,8 @@
     "icCardSupported": true,
     "priceNote": "¥300〜",
     "usageNote": "利用時間は朝10時〜夜20時(施設の営業時間内)。屋外の臨時ロッカーは24時間利用可能ですが現金(100円硬貨)専用のものもあります。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "morioka_01",
@@ -611,7 +651,8 @@
     "icCardSupported": true,
     "priceNote": "¥400〜",
     "usageNote": "北改札からフェザン方面へのエスカレーター手前にあります。Suica対応。たぬきのマークが目印です。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "akita_01",
@@ -626,7 +667,8 @@
     "icCardSupported": true,
     "priceNote": "¥400〜",
     "usageNote": "利用時間は朝6時〜夜20時30分。24時間ではないため、遅い時間の預け入れ・引き取りには注意してください。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "yamagata_01",
@@ -641,7 +683,8 @@
     "icCardSupported": true,
     "priceNote": "¥400〜",
     "usageNote": "階段の下にあり少し分かりにくい場所です。Suica専用機・現金専用機・両対応機が混在しています。駅前にはこれ以外のロッカーは少ないため、満室の場合はバスセンター側も確認してください。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "fukushima_01",
@@ -655,7 +698,8 @@
     "icCardSupported": true,
     "priceNote": "¥400〜¥600",
     "usageNote": "ゆうちょ銀行ATMの隣にあります。交通系ICカード・現金の両方に対応。西口側は現金専用ロッカーが中心です。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "hakodate_01",
@@ -669,7 +713,8 @@
     "icCardSupported": true,
     "priceNote": "¥400〜¥700",
     "usageNote": "利用時間は朝6時〜夜22時。中サイズ75個・大サイズ220個と数が多く設置されています。両替機が稼働していないことがあるため、小銭かICカードを準備しておくと安心です。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "otaru_01",
@@ -684,7 +729,8 @@
     "icCardSupported": true,
     "priceNote": "¥400〜",
     "usageNote": "利用時間は朝7時30分〜夜22時。駅を出てすぐ右手にあり、大型スーツケース対応のロッカーもあります。現金(100円硬貨)・ICカードどちらも利用可能です。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "toyama_01",
@@ -699,7 +745,8 @@
     "icCardSupported": true,
     "priceNote": "¥400〜",
     "usageNote": "小銭がない場合は富山地方鉄道の窓口で両替可能です。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "fukui_01",
@@ -714,7 +761,8 @@
     "icCardSupported": true,
     "priceNote": "¥400〜",
     "usageNote": "セブンイレブンの隣にあり、電子マネーに対応した比較的新しいタイプです。出口外側にも別途現金(100円硬貨)専用の鍵式ロッカーがあります。満室の場合は駅近くの観光案内所での荷物預かりも利用できます。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "shizuoka_01",
@@ -728,7 +776,8 @@
     "icCardSupported": true,
     "priceNote": "¥500(12時間)",
     "usageNote": "24時間利用可能。週末でも空きが見つかりやすいという口コミがあります。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "kagoshima_01",
@@ -743,7 +792,8 @@
     "icCardSupported": true,
     "priceNote": "¥400〜",
     "usageNote": "改札近くに設置されています。桜島観光やフェリー乗り場へ向かう前の荷物預けに便利です。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "miyazaki_01",
@@ -758,7 +808,8 @@
     "icCardSupported": true,
     "priceNote": "¥400〜",
     "usageNote": "利用時間は朝5時〜夜23時40分。ほぼ終日利用できます。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "matsuyama_01",
@@ -773,7 +824,8 @@
     "icCardSupported": true,
     "priceNote": "¥400〜",
     "usageNote": "駅舎内に設置されています(詳細な料金・空き状況は現地表示でご確認ください)。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "kochi_01",
@@ -788,7 +840,8 @@
     "icCardSupported": true,
     "priceNote": "¥400〜¥800",
     "usageNote": "改札を出てすぐ右手にあります。交通系ICカードで支払い・解錠が可能です。深夜0時〜朝4時30分の駅閉鎖時間帯は利用できません。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "tokushima_01",
@@ -803,7 +856,8 @@
     "icCardSupported": true,
     "priceNote": "¥400〜",
     "usageNote": "地下1階に複数台設置されています。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "wakayama_01",
@@ -818,7 +872,8 @@
     "icCardSupported": false,
     "priceNote": "¥400〜(小サイズ)/¥500〜(中央出口側)",
     "usageNote": "利用時間は朝6時30分〜深夜0時30分。100円硬貨専用の鍵式ロッカーで、両替機はありません。小銭を用意しておくとスムーズです。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "shin_yokohama_01",
@@ -833,7 +888,8 @@
     "icCardSupported": true,
     "priceNote": "¥500〜",
     "usageNote": "24時間利用可能。北口すぐでりそな銀行ATM近くにあります。横浜アリーナでのイベント開催日は大変混雑するため、早めの利用がおすすめです。現金・ICカードどちらも利用できるタイプと、100円硬貨専用の鍵式タイプがあります。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "mito_01",
@@ -848,7 +904,8 @@
     "icCardSupported": true,
     "priceNote": "¥300〜¥500",
     "usageNote": "約100基設置されており、改札に近いロッカーは埋まりやすいですが、上段・下段は空いていることが多いです。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "utsunomiya_01",
@@ -863,7 +920,8 @@
     "icCardSupported": true,
     "priceNote": "¥400〜",
     "usageNote": "駅構内に設置されています(詳細な料金・空き状況は現地表示でご確認ください)。餃子めぐりの荷物預けに便利です。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "takasaki_01",
@@ -878,7 +936,8 @@
     "icCardSupported": true,
     "priceNote": "¥400〜",
     "usageNote": "駅構内に設置されています(詳細な料金・空き状況は現地表示でご確認ください)。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "omiya_01",
@@ -893,7 +952,8 @@
     "icCardSupported": true,
     "priceNote": "¥400〜",
     "usageNote": "セキュリティ点検等で一時的に使用停止になることがあります。その場合、駅近くの小型店舗(K-1223南)のロッカーは¥200〜とやや割安ですが鍵式(硬貨のみ)です。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "niigata_01",
@@ -908,7 +968,8 @@
     "icCardSupported": true,
     "priceNote": "¥400・¥500・¥700(1日あたり)",
     "usageNote": "Suica対応。改札から万代広場口へ向かう通路沿いにあり、新潟駅で最もロッカー数が多い場所です。西口・東口・CoCoLo南館にも別のロッカーがあります。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "kofu_01",
@@ -923,7 +984,8 @@
     "icCardSupported": true,
     "priceNote": "¥400〜",
     "usageNote": "利用時間は朝5時〜深夜0時30分。北口側に200個以上と数が多く、鍵式・IC専用・現金対応の3タイプが混在しています。南口側にはロッカーがありません。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "gifu_01",
@@ -938,7 +1000,8 @@
     "icCardSupported": true,
     "priceNote": "¥400〜",
     "usageNote": "駅構内に設置されています(詳細な料金・空き状況は現地表示でご確認ください)。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "tsu_01",
@@ -953,7 +1016,8 @@
     "icCardSupported": true,
     "priceNote": "¥400〜",
     "usageNote": "駅構内に設置されています(詳細な料金・空き状況は現地表示でご確認ください)。伊勢志摩方面への乗り換え拠点として便利です。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "otsu_01",
@@ -967,7 +1031,8 @@
     "icCardSupported": false,
     "priceNote": "¥300・¥400",
     "usageNote": "証明写真機の隣にあります。100円硬貨専用でICカードは使えません。駅や周辺店舗では両替できないとの案内があるため、事前に小銭を準備しておくと安心です。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "tottori_01",
@@ -982,7 +1047,8 @@
     "icCardSupported": false,
     "priceNote": "¥400〜",
     "usageNote": "硬貨投入式ですが両替機が併設されています。大小さまざまなサイズがあります。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "matsue_01",
@@ -997,7 +1063,8 @@
     "icCardSupported": false,
     "priceNote": "S¥400・M¥600・L¥800",
     "usageNote": "利用時間は朝4時40分〜深夜0時10分(引き取りのみ)。1000円札対応の両替機があります。指定日を過ぎると延滞料金がかかるため、宿泊をまたぐ預け入れには注意してください。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "shin_yamaguchi_01",
@@ -1011,7 +1078,8 @@
     "icCardSupported": true,
     "priceNote": "¥400〜",
     "usageNote": "北口エスカレーターを上がってすぐ、セブンイレブンの隣にあります。台数は多くありません。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "saga_01",
@@ -1026,7 +1094,8 @@
     "icCardSupported": true,
     "priceNote": "¥400〜",
     "usageNote": "駅構内に設置されています(詳細な料金・空き状況は現地表示でご確認ください)。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "asahikawa_01",
@@ -1041,7 +1110,8 @@
     "icCardSupported": true,
     "priceNote": "¥400〜(24時間ごと)",
     "usageNote": "イオンモール旭川駅前と直結した駅構内にあります。木目調のきれいな駅舎内、さまざまなサイズのロッカーが利用可能です。",
-    "type": "locker"
+    "type": "locker",
+    "lastVerified": "2026-09"
   },
   {
     "id": "tokyo_shop_01",
@@ -1056,7 +1126,8 @@
     "icCardSupported": true,
     "priceNote": "¥600〜(サイズにより変動)",
     "usageNote": "利用時間は朝9時〜夜21時。スタッフが対応する店舗型の預かり所で、コインロッカーが満室のときの受け皿として便利です。",
-    "type": "shop"
+    "type": "shop",
+    "lastVerified": "2026-09"
   },
   {
     "id": "shinjuku_shop_01",
@@ -1070,7 +1141,8 @@
     "icCardSupported": true,
     "priceNote": "1個あたり¥700程度〜",
     "usageNote": "利用時間は朝9時〜夜18時。事前のオンライン予約がおすすめです。ビル内の小さな受付のため看板が見つけにくいという口コミがあります。",
-    "type": "shop"
+    "type": "shop",
+    "lastVerified": "2026-09"
   },
   {
     "id": "shibuya_shop_01",
@@ -1084,7 +1156,8 @@
     "icCardSupported": false,
     "priceNote": "¥700(1個・1日)",
     "usageNote": "しぶちか(渋谷駅地下街)地下1階にあります。スタッフが対応するクローク型で、コインロッカーが満室でも預けられることが多いです。",
-    "type": "shop"
+    "type": "shop",
+    "lastVerified": "2026-09"
   },
   {
     "id": "osaka_shop_01",
@@ -1099,7 +1172,8 @@
     "icCardSupported": true,
     "priceNote": "コインロッカーよりやや割高",
     "usageNote": "利用時間は朝9時〜夜20時。日本旅行横、北ゲートビル1階にあります。コインロッカーより料金は高めですが、確実に預けられる安心感があります。",
-    "type": "shop"
+    "type": "shop",
+    "lastVerified": "2026-09"
   },
   {
     "id": "shin_osaka_shop_01",
@@ -1114,7 +1188,8 @@
     "icCardSupported": true,
     "priceNote": "¥1000〜¥2000程度(サイズ・時間帯による)",
     "usageNote": "利用時間は朝9時〜夜22時。新幹線改札近くの2階にあります。コインロッカーが満室のときの代替先として利用されています。",
-    "type": "shop"
+    "type": "shop",
+    "lastVerified": "2026-09"
   },
   {
     "id": "namba_shop_01",
@@ -1129,7 +1204,8 @@
     "icCardSupported": true,
     "priceNote": "コインロッカーよりやや割高",
     "usageNote": "利用時間は朝10時〜夜20時30分。英語対応スタッフがいて、預けた荷物への出し入れも可能です。",
-    "type": "shop"
+    "type": "shop",
+    "lastVerified": "2026-09"
   },
   {
     "id": "kyoto_shop_01",
@@ -1144,7 +1220,8 @@
     "icCardSupported": false,
     "priceNote": "コインロッカーよりやや割高",
     "usageNote": "利用時間は朝8時〜夜20時(引き取りは20時まで)。番号札を受け取る方式で、支払いは現金のみです。",
-    "type": "shop"
+    "type": "shop",
+    "lastVerified": "2026-09"
   },
   {
     "id": "nagoya_shop_01",
@@ -1159,7 +1236,8 @@
     "icCardSupported": false,
     "priceNote": "¥700〜(サイズにより変動)",
     "usageNote": "利用時間は平日朝9時30分〜夜19時(曜日により延長あり)。名古屋国鉄会館1階、駅から少し歩きます。支払いは現金のみです。混雑時は待ち時間が発生することがあります。",
-    "type": "shop"
+    "type": "shop",
+    "lastVerified": "2026-09"
   },
   {
     "id": "haneda_shop_01",
@@ -1174,7 +1252,8 @@
     "icCardSupported": true,
     "priceNote": "サイズにより変動(大型スーツケース複数でも対応可)",
     "usageNote": "地下1階にあります。フライトまでの空き時間に身軽に観光したい場合などに便利です。",
-    "type": "shop"
+    "type": "shop",
+    "lastVerified": "2026-09"
   },
   {
     "id": "shinchitose_shop_01",
@@ -1189,7 +1268,8 @@
     "icCardSupported": true,
     "priceNote": "サイズにより変動",
     "usageNote": "利用時間は朝7時30分〜夜20時。スキー・スノーボード用の大型荷物にも対応しています。国内配送のみで海外への発送はできません。",
-    "type": "shop"
+    "type": "shop",
+    "lastVerified": "2026-09"
   },
   {
     "id": "hakata_shop_01",
@@ -1204,6 +1284,7 @@
     "icCardSupported": true,
     "priceNote": "コインロッカーとほぼ同程度",
     "usageNote": "利用時間は朝10時〜夜21時。博多マルイ2階、エスカレーター脇にあります。英語対応スタッフがいて、事前オンライン予約で割引もあります。",
-    "type": "shop"
+    "type": "shop",
+    "lastVerified": "2026-09"
   }
 ]
