@@ -1160,22 +1160,6 @@
     "lastVerified": "2026-09"
   },
   {
-    "id": "osaka_shop_01",
-    "name": "大阪駅(梅田) Crosta Osaka 手荷物預かり",
-    "lat": 34.7030912,
-    "lng": 135.4962205,
-    "sizes": [
-      "S",
-      "M",
-      "L"
-    ],
-    "icCardSupported": true,
-    "priceNote": "コインロッカーよりやや割高",
-    "usageNote": "利用時間は朝9時〜夜20時。日本旅行横、北ゲートビル1階にあります。コインロッカーより料金は高めですが、確実に預けられる安心感があります。",
-    "type": "shop",
-    "lastVerified": "2026-09"
-  },
-  {
     "id": "shin_osaka_shop_01",
     "name": "新大阪駅 Luggage Station",
     "lat": 34.7332208,
