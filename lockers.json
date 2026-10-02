@@ -1093,7 +1093,6 @@
       "M",
       "L"
     ],
-    "icCardSupported": true,
     "priceNote": "¥400・¥500・¥700(1日あたり)",
     "priceNoteEn": "¥400 / ¥500 / ¥700 (per day)",
     "usageNote": "Suica対応。改札から万代広場口へ向かう通路沿いにあり、新潟駅で最もロッカー数が多い場所です。西口・東口・CoCoLo南館にも別のロッカーがあります。",
@@ -1254,7 +1253,6 @@
       "M",
       "L"
     ],
-    "icCardSupported": true,
     "priceNote": "¥400〜(24時間ごと)",
     "priceNoteEn": "From ¥400 (per 24 hours)",
     "usageNote": "イオンモール旭川駅前と直結した駅構内にあります。木目調のきれいな駅舎内、さまざまなサイズのロッカーが利用可能です。",
@@ -1462,8 +1460,8 @@
       "L"
     ],
     "icCardSupported": true,
-    "priceNote": "コインロッカーとほぼ同程度",
-    "priceNoteEn": "About the same as coin lockers",
+    "priceNote": "¥1000〜",
+    "priceNoteEn": "From ¥1,000",
     "usageNote": "利用時間は朝10時〜夜21時。博多マルイ2階、エスカレーター脇にあります。英語対応スタッフがいて、事前オンライン予約で割引もあります。",
     "usageNoteEn": "Hours: 10:00–21:00. On the 2nd floor of Hakata Marui, beside the escalator. English-speaking staff are available, and discounts apply with advance online reservation.",
     "type": "shop",
