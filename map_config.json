@@ -1,0 +1,7 @@
+{
+  "mode": "vector",
+  "styleUrl": "https://tiles.openfreemap.org/styles/liberty",
+  "vectorAttribution": "OpenFreeMap © OpenMapTiles Data from OpenStreetMap",
+  "rasterUrlTemplate": "https://cyberjapandata.gsi.go.jp/xyz/std/{z}/{x}/{y}.png",
+  "rasterAttribution": "国土地理院(地理院タイル)"
+}
